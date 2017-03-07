@@ -12,3 +12,5 @@ the resulting header file output into `tester.c`, then compiling and running `te
 The tests simply run both operations and confirm that the return values are the same for each.
 (It doesn't check that the directory state is the same yet, but that should be simple to add.)
 
+[Link to Paper](https://pdos.csail.mit.edu/papers/commutativity:sosp13.pdf)
+[Commuter Website](https://pdos.csail.mit.edu/archive/commuter)
